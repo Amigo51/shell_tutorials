@@ -1,0 +1,1 @@
+# ls -l /path > new_file==sends outout to the new_file
